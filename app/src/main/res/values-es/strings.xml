@@ -1,11 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Week1Daily4-Profile</string>
     <string name="name">Joshua Robbins</string>
-    <string name="address">Address:</string>
+    <string name="address">Dirección:</string>
     <string name="Atlanta">Atlanta</string>
     <string name="Georgia">Georgia</string>
     <string name="GSU">Georgia State Universtiy</string>
-    <string name="hobbies">Hobbies:</string>
-    <string name="gaming">Gaming</string>
-    <string name="soccer">Soccer</string>
+    <string name="hobbies">Aficiones:</string>
+    <string name="gaming">Videojuego</string>
+    <string name="soccer">Fútbol</string>
 </resources>

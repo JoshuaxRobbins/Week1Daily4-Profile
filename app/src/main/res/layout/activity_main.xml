@@ -15,7 +15,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="Joshua Robbins" />
+        android:text="@string/name" />
 
 
     <LinearLayout
@@ -30,21 +30,21 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Address:" />
+            android:text="@string/address" />
 
         <TextView
             style="@style/Address"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Atlanta" />
+            android:text="@string/Atlanta" />
 
         <TextView
             style="@style/Address"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Georgia" />
+            android:text="@string/Georgia" />
 
 
     </LinearLayout>
@@ -54,7 +54,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="Georgia State University" />
+        android:text="@string/GSU" />
 
     <RelativeLayout
 
@@ -68,7 +68,7 @@
             android:id="@+id/tvHobbies"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Hobbies:" />
+            android:text="@string/hobbies" />
 
         <TextView
             android:layout_toLeftOf="@id/tvHobbies"
@@ -77,7 +77,7 @@
             android:id="@+id/tvGaming"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Gaming" />
+            android:text="@string/gaming" />
 
         <TextView
             android:layout_toRightOf="@id/tvHobbies"
@@ -86,7 +86,7 @@
             android:id="@+id/tvSoccer"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Soccer" />
+            android:text="@string/soccer" />
 
     </RelativeLayout>
 
