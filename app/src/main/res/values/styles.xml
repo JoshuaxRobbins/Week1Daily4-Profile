@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#b215d1e6</item>
+        <item name="colorPrimaryDark">#809e9595</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:background">#6ec6c6c2</item>
+    </style>
+
+    <style name="Name">
+        <item name="android:textColor">#ff4400</item>
+        <item name="android:background">#5c5b5b</item>
+        <item name="android:textSize">35dp</item>
+        <item name="android:fontFamily">@font/rscript</item>
+    </style>
+
+    <style name="Address">
+        <item name="android:textColor">#ff8800</item>
+        <item name="android:textSize">25dp</item>
+        <item name="android:fontFamily">@font/airstrike</item>
+    </style>
+
+    <style name="Education">
+        <item name="android:textColor">#ffbb00</item>
+        <item name="android:background">#5c5b5b</item>
+        <item name="android:textSize">28dp</item>
+        <item name="android:fontFamily">@font/raleway</item>
+    </style>
+
+    <style name="Hobbies">
+        <item name="android:textColor">#aaff00</item>
+        <item name="android:background">#5c5b5b</item>
+        <item name="android:textSize">32dp</item>
+        <item name="android:fontFamily">@font/marlboro</item>
+    </style>
+</resources>
